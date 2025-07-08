@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Abinaya-2010/Leetcode/tree/master/0009-palindrome-number) |
+## Hash Table
+|  |
+| ------- |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Abinaya-2010/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+## String
+|  |
+| ------- |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Abinaya-2010/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+## Enumeration
+|  |
+| ------- |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Abinaya-2010/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 <!---LeetCode Topics End-->
