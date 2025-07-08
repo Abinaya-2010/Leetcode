@@ -51,19 +51,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Abinaya-2010/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Abinaya-2010/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/Abinaya-2010/Leetcode/tree/master/1005-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Abinaya-2010/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Abinaya-2010/Leetcode/tree/master/1005-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Abinaya-2010/Leetcode/tree/master/0226-invert-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Abinaya-2010/Leetcode/tree/master/1005-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Abinaya-2010/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Abinaya-2010/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/Abinaya-2010/Leetcode/tree/master/1005-univalued-binary-tree) |
 ## Binary Search Tree
