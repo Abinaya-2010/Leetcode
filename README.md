@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abinaya-2010/Leetcode/tree/master/0020-valid-parentheses) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Abinaya-2010/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [2580-circular-sentence](https://github.com/Abinaya-2010/Leetcode/tree/master/2580-circular-sentence) |
 | [3636-check-balanced-string](https://github.com/Abinaya-2010/Leetcode/tree/master/3636-check-balanced-string) |
 ## Enumeration
 |  |
