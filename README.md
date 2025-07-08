@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Abinaya-2010/Leetcode/tree/master/0055-jump-game) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abinaya-2010/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Abinaya-2010/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Abinaya-2010/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Abinaya-2010/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Abinaya-2010/Leetcode/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Binary Search
