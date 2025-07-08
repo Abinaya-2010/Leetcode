@@ -48,4 +48,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Abinaya-2010/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
+## Tree
+|  |
+| ------- |
+| [1005-univalued-binary-tree](https://github.com/Abinaya-2010/Leetcode/tree/master/1005-univalued-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1005-univalued-binary-tree](https://github.com/Abinaya-2010/Leetcode/tree/master/1005-univalued-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1005-univalued-binary-tree](https://github.com/Abinaya-2010/Leetcode/tree/master/1005-univalued-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1005-univalued-binary-tree](https://github.com/Abinaya-2010/Leetcode/tree/master/1005-univalued-binary-tree) |
 <!---LeetCode Topics End-->
