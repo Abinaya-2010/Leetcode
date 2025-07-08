@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Abinaya-2010/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abinaya-2010/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Abinaya-2010/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Abinaya-2010/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Abinaya-2010/Leetcode/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Binary Search
 |  |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abinaya-2010/Leetcode/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Abinaya-2010/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
+## Matrix
+|  |
+| ------- |
+| [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Abinaya-2010/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 <!---LeetCode Topics End-->
