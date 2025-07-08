@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abinaya-2010/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abinaya-2010/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0055-jump-game](https://github.com/Abinaya-2010/Leetcode/tree/master/0055-jump-game) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Abinaya-2010/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Abinaya-2010/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Abinaya-2010/Leetcode/tree/master/3832-minimum-cost-to-reach-every-position) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Abinaya-2010/Leetcode/tree/master/0055-jump-game) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Abinaya-2010/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Matrix
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Abinaya-2010/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Abinaya-2010/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
