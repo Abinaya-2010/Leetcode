@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abinaya-2010/Leetcode/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/Abinaya-2010/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Abinaya-2010/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2580-circular-sentence](https://github.com/Abinaya-2010/Leetcode/tree/master/2580-circular-sentence) |
 | [3195-separate-black-and-white-balls](https://github.com/Abinaya-2010/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Abinaya-2010/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/Abinaya-2010/Leetcode/tree/master/0455-assign-cookies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abinaya-2010/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [3195-separate-black-and-white-balls](https://github.com/Abinaya-2010/Leetcode/tree/master/3195-separate-black-and-white-balls) |
