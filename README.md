@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Abinaya-2010/Leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Abinaya-2010/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Abinaya-2010/Leetcode/tree/master/0455-assign-cookies) |
+| [0861-flipping-an-image](https://github.com/Abinaya-2010/Leetcode/tree/master/0861-flipping-an-image) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abinaya-2010/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Abinaya-2010/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Abinaya-2010/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Abinaya-2010/Leetcode/tree/master/0048-rotate-image) |
+| [0861-flipping-an-image](https://github.com/Abinaya-2010/Leetcode/tree/master/0861-flipping-an-image) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Abinaya-2010/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Tree
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/Abinaya-2010/Leetcode/tree/master/0861-flipping-an-image) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abinaya-2010/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Abinaya-2010/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/Abinaya-2010/Leetcode/tree/master/0861-flipping-an-image) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abinaya-2010/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
@@ -128,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Abinaya-2010/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/Abinaya-2010/Leetcode/tree/master/0455-assign-cookies) |
+| [0861-flipping-an-image](https://github.com/Abinaya-2010/Leetcode/tree/master/0861-flipping-an-image) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abinaya-2010/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [3195-separate-black-and-white-balls](https://github.com/Abinaya-2010/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Counting
