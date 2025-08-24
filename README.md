@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Abinaya-2010/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Abinaya-2010/Leetcode/tree/master/0455-assign-cookies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abinaya-2010/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Abinaya-2010/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Abinaya-2010/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abinaya-2010/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Abinaya-2010/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Abinaya-2010/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abinaya-2010/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Abinaya-2010/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Abinaya-2010/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abinaya-2010/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Abinaya-2010/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Abinaya-2010/Leetcode/tree/master/0455-assign-cookies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abinaya-2010/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [3195-separate-black-and-white-balls](https://github.com/Abinaya-2010/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+## Counting
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Abinaya-2010/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
