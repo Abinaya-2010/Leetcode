@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Abinaya-2010/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Abinaya-2010/Leetcode/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/Abinaya-2010/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0507-perfect-number](https://github.com/Abinaya-2010/Leetcode/tree/master/0507-perfect-number) |
 | [1448-maximum-69-number](https://github.com/Abinaya-2010/Leetcode/tree/master/1448-maximum-69-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abinaya-2010/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abinaya-2010/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
