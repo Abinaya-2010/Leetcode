@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1156-occurrences-after-bigram](https://github.com/Abinaya-2010/Leetcode/tree/master/1156-occurrences-after-bigram) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Abinaya-2010/Leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2580-circular-sentence](https://github.com/Abinaya-2010/Leetcode/tree/master/2580-circular-sentence) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Abinaya-2010/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Abinaya-2010/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3636-check-balanced-string](https://github.com/Abinaya-2010/Leetcode/tree/master/3636-check-balanced-string) |
 ## Enumeration
