@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abinaya-2010/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abinaya-2010/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Abinaya-2010/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3830-find-closest-person](https://github.com/Abinaya-2010/Leetcode/tree/master/3830-find-closest-person) |
 ## Hash Table
 |  |
 | ------- |
