@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Abinaya-2010/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abinaya-2010/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Abinaya-2010/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Abinaya-2010/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Abinaya-2010/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Abinaya-2010/Leetcode/tree/master/0455-assign-cookies) |
 | [0861-flipping-an-image](https://github.com/Abinaya-2010/Leetcode/tree/master/0861-flipping-an-image) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Abinaya-2010/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Abinaya-2010/Leetcode/tree/master/0054-spiral-matrix) |
 | [0861-flipping-an-image](https://github.com/Abinaya-2010/Leetcode/tree/master/0861-flipping-an-image) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/Abinaya-2010/Leetcode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
 ## Tree
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Abinaya-2010/Leetcode/tree/master/0054-spiral-matrix) |
 | [0861-flipping-an-image](https://github.com/Abinaya-2010/Leetcode/tree/master/0861-flipping-an-image) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abinaya-2010/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
