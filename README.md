@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Abinaya-2010/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abinaya-2010/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Abinaya-2010/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Abinaya-2010/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/Abinaya-2010/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3451-string-compression-iii](https://github.com/Abinaya-2010/Leetcode/tree/master/3451-string-compression-iii) |
 | [3636-check-balanced-string](https://github.com/Abinaya-2010/Leetcode/tree/master/3636-check-balanced-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Abinaya-2010/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Enumeration
 |  |
 | ------- |
@@ -152,4 +154,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Abinaya-2010/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Abinaya-2010/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
